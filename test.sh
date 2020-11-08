@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#some comment here
 
 pushd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )" >/dev/null
 
